@@ -13,4 +13,8 @@ Nothing really. It's just an interesting topic that doesn't seem to be a common 
 # Do you get any benefits from this? It looks wasteful on the fact that you paid money for a domain.
 I do. This project is intended to practice hybrid cloud environments where the website will be hosted in an on-premise configuration and will be exposed to cloud for resiliency.
 
-It also aims to have minimal user interaction to set up as this application will be completely deployed using automation tools (Ansible) to remove user errors on setting up the application. ~~And because humans are full of fail.~~ 
+It also aims to have minimal user interaction to set up as this application will be completely deployed using automation tools (Ansible) to remove user errors on setting up the application. ~~And because humans are full of fail.~~
+
+# Are these rants real?
+🙃
+Have you checked the tag?
