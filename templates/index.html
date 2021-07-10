@@ -1,11 +1,14 @@
 <!DOCTYPE html>
     <html lang="en">
     <head>
+        <link rel="icon" type="image/png" href="static/favicon.png">
         <meta charset="UTF-8">
-        <title>CanSucc</title>
+        <title>{% block title %}{% endblock %} - CanSucc</title>
     </head>
     <body>
-        {% block body %}
-        {% endblock %}
+        <div id="content">
+            {% block body %}
+            {% endblock %}
+        </div>
     </body>
 </html>
